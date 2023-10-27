@@ -75,7 +75,7 @@ h6,
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #1e4356;
+  background: #3feee6;
 }
 
 #header.header-transparent {
@@ -283,7 +283,7 @@ h6,
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #1e4356;
+  color: #3feee6;
 }
 
 .navbar-mobile a:hover,
@@ -1114,7 +1114,7 @@ section {
 }
 
 .service-details .card-title a {
-  color: #1e4356;
+  color: #3feee6;
   transition: 0.3s;
 }
 
@@ -1212,7 +1212,7 @@ section {
 }
 
 .pricing .get-started-btn {
-  background: #1e4356;
+  background: #3feee6;
   display: inline-block;
   padding: 6px 30px;
   border-radius: 20px;
@@ -1297,7 +1297,7 @@ section {
 }
 
 .portfolio .portfolio-item {
-  background: #1e4356;
+  background: #3feee6;
   overflow: hidden;
   min-height: 200px;
   position: relative;
@@ -1659,7 +1659,7 @@ section {
 }
 
 .blog .entry .entry-title a {
-  color: #1e4356;
+  color: #3feee6;
   transition: 0.3s;
 }
 
@@ -1751,7 +1751,7 @@ section {
   top: 0;
   bottom: 0;
   width: 3px;
-  background-color: #1e4356;
+  background-color: #3feee6;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -1831,7 +1831,7 @@ section {
   font-size: 22px;
   margin-bottom: 0px;
   padding: 0;
-  color: #1e4356;
+  color: #3feee6;
 }
 
 .blog .blog-author .social-links {
@@ -1886,7 +1886,7 @@ section {
 
 .blog .blog-comments .comment h5 .reply {
   padding-left: 10px;
-  color: #1e4356;
+  color: #3feee6;
 }
 
 .blog .blog-comments .comment h5 .reply i {
@@ -1949,7 +1949,7 @@ section {
   border-radius: 4px;
   padding: 10px 20px;
   border: 0;
-  background-color: #1e4356;
+  background-color: #3feee6;
 }
 
 .blog .blog-comments .reply-form .btn-primary:hover {
@@ -1973,7 +1973,7 @@ section {
 }
 
 .blog .blog-pagination li a {
-  color: #1e4356;
+  color: #3feee6;
   padding: 7px 16px;
   display: flex;
   align-items: center;
@@ -2001,7 +2001,7 @@ section {
   font-weight: 700;
   padding: 0 0 0 0;
   margin: 0 0 15px 0;
-  color: #1e4356;
+  color: #3feee6;
   position: relative;
 }
 
@@ -2058,7 +2058,7 @@ section {
 }
 
 .blog .sidebar .categories ul a {
-  color: #1e4356;
+  color: #3feee6;
   transition: 0.3s;
 }
 
@@ -2088,7 +2088,7 @@ section {
 }
 
 .blog .sidebar .recent-posts h4 a {
-  color: #1e4356;
+  color: #3feee6;
   transition: 0.3s;
 }
 
@@ -2228,7 +2228,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #1e4356;
+  background: #3feee6;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
