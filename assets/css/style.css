@@ -348,7 +348,7 @@ h6,
   top: 0;
   width: 130%;
   height: 95%;
-  background: url("../img/building-img.png") center center no-repeat;
+  background: url("../img/building.png") center center no-repeat;
   z-index: 0;
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) rotate(0deg);
